@@ -20,8 +20,8 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
             KC_PGDN,    KC_LCTL,    KC_Z,       KC_X,       KC_C,       KC_V,
                                     KC_1,       KC_2,
                                                             LT(1,KC_LALT),    KC_SPC,
-                                                                                    KC_RALT,        KC_RCTL,
-                                                                                    LT(1,KC_HOME),  LT(2,KC_END)
+                                                                                    LT(1,KC_HOME),  LT(2,KC_END),
+                                                                                    KC_RALT,        KC_RCTL
     ),
 
     [_LAYER1] = LAYOUT(
