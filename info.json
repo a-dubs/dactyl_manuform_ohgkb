@@ -1,0 +1,51 @@
+{
+    "keyboard_name": "Dactyl Manuform One Handed Gaming Keyboard",
+    "url": "https://github.com/a-dubs/ohgkb",
+    "maintainer": "a-dubs",
+    "diode_direction": "COL2ROW",
+    "matrix_pins": {
+        "cols": ["B3", "F7", "F5", "D7", "D4", "D1"],
+        "rows": ["D0", "C6", "B5", "F4", "F6", "B1"]
+    },
+    "layouts": {
+        "LAYOUT_PLACEHOLDER": {
+            "layout": [
+                {"label": "", "x": 0, "y": 0.5},
+                {"label": "", "x": 1, "y": 0.5},
+                {"label": "", "x": 2, "y": 0},
+                {"label": "", "x": 3, "y": 0},
+                {"label": "", "x": 4, "y": 0},
+                {"label": "", "x": 5, "y": 0},
+                {"label": "", "x": 0, "y": 1.5},
+                {"label": "", "x": 1, "y": 1.5},
+                {"label": "", "x": 2, "y": 1},
+                {"label": "", "x": 3, "y": 1},
+                {"label": "", "x": 4, "y": 1},
+                {"label": "", "x": 5, "y": 1},
+                {"label": "", "x": 0, "y": 2.5},
+                {"label": "", "x": 1, "y": 2.5},
+                {"label": "", "x": 2, "y": 2},
+                {"label": "", "x": 3, "y": 2},
+                {"label": "", "x": 4, "y": 2},
+                {"label": "", "x": 5, "y": 2},
+                {"label": "", "x": 0, "y": 3.5},
+                {"label": "", "x": 1, "y": 3.5},
+                {"label": "", "x": 2, "y": 3},
+                {"label": "", "x": 3, "y": 3},
+                {"label": "", "x": 4, "y": 3},
+                {"label": "", "x": 5, "y": 3},
+
+                {"label": "", "x": 2, "y": 4},
+                {"label": "", "x": 3, "y": 4},
+                {"label": "", "x": 4, "y": 5},
+                {"label": "", "x": 5, "y": 5},
+                {"label": "", "x": 4, "y": 5.5},
+                {"label": "", "x": 5, "y": 5.5},
+                {"label": "", "x": 6, "y": 5.5},
+                {"label": "", "x": 7, "y": 5.5},
+                {"label": "", "x": 6, "y": 6.5},
+                {"label": "", "x": 7, "y": 6.5}
+            ]
+        }
+    }
+}
